@@ -184,3 +184,14 @@ sql/
 
 ---
 
+
+## Phase Timeline
+
+| Phase | Status |
+|-------|--------|
+| Phase 1 — Dataset Setup | ✅ Done |
+| Phase 2 — Data Cleaning | ✅ Done |
+| ** Phase 3 — SQL Analysis ** |🔄 In Progress  |
+| Phase 4A — Python EDA | ⬜ Pending |
+| Phase 4B — Power BI Dashboard | ⬜ Pending |
+| Phase 5 — README & Publishing | ⬜ Pending |

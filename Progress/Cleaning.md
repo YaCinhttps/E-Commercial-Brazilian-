@@ -75,11 +75,19 @@ category_clean
 - Validated all ratings are 1-5 stars
 - Filled missing comment text
 
-## Next Steps
-1. **Explore**: Look at cleaned data distributions
-2. **Analyze**: Answer business questions
-3. **Visualize**: Create charts and dashboards
-4. **Model**: Build predictive models
+
+
+ ## Phase Timeline
+
+
+| Phase | Status |
+|-------|--------|
+| **Phase 1 — Dataset Setup** | 🔄 In Progress |
+| **Phase 2 — Data Cleaning** | 🔄 In Progress |
+| Phase 3 — SQL Analysis |   ⬜ Pending 
+| Phase 4 - Python EDA |  ⬜ Pending |
+| Phase 4B — Power BI Dashboard | ⬜ Pending |
+| Phase 5 — README & Publishing | ⬜ Pending |
 
 
 
