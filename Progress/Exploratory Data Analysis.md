@@ -28,13 +28,13 @@ The goal is to confirm insights visually and produce clean chart images that fee
 
 | # | Chart | SQL Source | Status |
 |---|-------|-----------|--------|
-| 1 | Top 10 categories by revenue | top_categories.csv | ⬜ Pending |
-| 2 | Late delivery impact on review scores | late_delivery_impact.csv | ⬜ Pending |
-| 3 | Late delivery rate by state | delivery_by_state.csv | ⬜ Pending |
-| 4 | RFM customer segmentation — count & spend | rfm_segmentation.csv | ⬜ Pending |
-| 5 | Revenue by payment method | payment_methods.csv | ⬜ Pending |
-| 6 | Repeat vs one-time customers (pie) | repeat_customers.csv | ⬜ Pending |
-| 7 | Average daily revenue by weekday | revenue_by_weekday.csv | ⬜ Pending |
+| 1 | Top 10 categories by revenue | top_categories.csv | ✅ Done |
+| 2 | Late delivery impact on review scores | late_delivery_impact.csv |✅ Done |
+| 3 | Late delivery rate by state | delivery_by_state.csv | ✅ Done |
+| 4 | RFM customer segmentation — count & spend | rfm_segmentation.csv | ✅ Done |
+| 5 | Revenue by payment method | payment_methods.csv |✅ Done |
+| 6 | Repeat vs one-time customers (pie) | repeat_customers.csv | ✅ Done |
+| 7 | Average daily revenue by weekday | revenue_by_weekday.csv | ✅ Done |
 
 ---
 
