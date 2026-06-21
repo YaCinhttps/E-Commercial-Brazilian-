@@ -7,13 +7,13 @@ An interactive Power BI dashboard built on real Brazilian e-commerce data from O
 ## 📸 Dashboard Preview
 
 ### Page 1 — Sales Overview
-![Sales Overview Dashboard](images/dashboard_sales_overview.png)
+![Sales Overview Dashboard](/images/PowerBiDashboards/SalesDashboard.png)
 
 ### Page 2 — Delivery & Customer Experience
-![Delivery Dashboard](images/dashboard_delivery.png)
+![Customers Dashboard](/images/PowerBIdashboards/DeliveryAndCustomerExperience.png)
 
 ### Page 3 — Customer Segmentation
-![Customer Segmentation Dashboard](images/dashboard_segmentation.png)
+![Customer Segmentation Dashboard](/images/PowerBIdashboards/)
 
 ---
 
@@ -21,7 +21,7 @@ An interactive Power BI dashboard built on real Brazilian e-commerce data from O
 
 **For Sales Teams:**
 - Which product categories are driving the most revenue?
-- What days of the week generate the most sales?
+- What days of the week (Compared To Last Year ) generate the most sales?
 - How does this year's revenue compare to last year, day by day?
 - Which payment methods do customers prefer?
 
@@ -44,12 +44,9 @@ A high level view of overall business performance.
 
 - **Total Revenue** — overall revenue with year over year trend
 - **Total Orders** — order volume with monthly sparkline
-- **Average Review Score** — customer satisfaction at a glance
-- **Late Delivery Rate** — operational health indicator
 - **Revenue by Product Category** — which categories drive the business
 - **Revenue by Weekday** — this year vs last year side by side comparison
 - **Payment Method Breakdown** — how customers prefer to pay
-- **Monthly Revenue Trend** — how the business grew over time
 
 ---
 
@@ -85,6 +82,3 @@ Understanding who the customers are and how they behave.
 
 ---
 
-
-
--
