@@ -13,7 +13,7 @@ An interactive Power BI dashboard built on real Brazilian e-commerce data from O
 ![Customers Dashboard](/images/PowerBIdashboards/DeliveryAndCustomerExperience.png)
 
 ### Page 3 — Customer Segmentation
-![Customer Segmentation Dashboard](/images/PowerBIdashboards/)
+![Customer Segmentation Dashboard](/images/PowerBIdashboards/Customers.png)
 
 ---
 
@@ -34,6 +34,7 @@ An interactive Power BI dashboard built on real Brazilian e-commerce data from O
 - What percentage of customers come back after their first purchase?
 - Who are our most valuable customers?
 - How are customers segmented by spending behavior?
+- What Are the Most brazilian States That have Most Customers ?
 
 ---
 
